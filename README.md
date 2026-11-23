@@ -68,3 +68,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/v3code/MTAI2026-Deep-learning-frameworks-seminars-autumn/blob/main/seminar_5/Post_Training_Quantization.ipynb)
 
+## Семинар 6: Knowledge_Distillation
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/v3code/MTAI2026-Deep-learning-frameworks-seminars-autumn/blob/main/seminar_6/Knowledge_Distillation.ipynb)
